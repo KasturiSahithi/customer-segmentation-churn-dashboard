@@ -14,7 +14,7 @@ The project uses a synthetic dataset to demonstrate an end-to-end customer analy
 
 Provides a high-level view of revenue, orders, customer metrics, and potential revenue improvement scenarios.
 
-![Executive Overview](executive-overview.png)
+![Executive Overview](Executiveoverview.png)
 
 ### 2.2 Customer Segmentation
 
