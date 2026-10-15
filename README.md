@@ -14,20 +14,19 @@ The project uses a synthetic dataset to demonstrate an end-to-end customer analy
 
 Provides a high-level view of revenue, orders, customer metrics, and potential revenue improvement scenarios.
 
-https://github.com/KasturiSahithi/customer-segmentation-churn-dashboard/blob/main/dashboards/Executive%20Overview.jpeg
-
+[View Executive Overview](dashboards/Executive%20Overview.jpeg)
 
 ### 2.2 Customer Segmentation
 
 Explores RFM-based customer clusters, customer distribution, and revenue contribution across clusters.
 
-![Customer Segmentation](customer-segmentation.png)
+[View Customer Segmentation](dashboards/Customer%20segmentation%20and%20RFM%20Analysis.jpeg)
 
 ### 2.3 Churn & Retention
 
 Displays customer inactivity risk categories, purchase status, and cohort retention analysis.
 
-![Churn and Retention](churn-retention.png)
+[View Churn & Retention](dashboards/Churn%20%26%20Retention.jpeg)
 
 ## 3. Project Objectives
 
