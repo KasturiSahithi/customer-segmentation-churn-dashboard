@@ -14,7 +14,7 @@ The project uses a synthetic dataset to demonstrate an end-to-end customer analy
 
 Provides a high-level view of revenue, orders, customer metrics, and potential revenue improvement scenarios.
 
-dashboards/Executive Overview.jpeg
+https://github.com/KasturiSahithi/customer-segmentation-churn-dashboard/blob/main/dashboards/Executive%20Overview.jpeg
 
 
 ### 2.2 Customer Segmentation
